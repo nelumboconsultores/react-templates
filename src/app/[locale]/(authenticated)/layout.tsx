@@ -5,7 +5,7 @@ type Props = Readonly<{
 }>;
 
 /*
- ** Se recomienda usar este Layour para las páginas que requieren autenticación.
+ ** Se recomienda usar este Layout para las páginas que requieren autenticación.
  */
 
 export default function AuthenticatedLayout({ children }: Props) {

@@ -1,5 +1,5 @@
-import { Fragment } from "react";
+import GetStartedPage from "@/modules/getStarted/pages/getStarted";
 
 export default async function RootPage() {
-  return <Fragment />;
+  return <GetStartedPage />;
 }
